@@ -1,4 +1,4 @@
-# **Procesamiento de Datos con Hadoop**
+# **Traballando con MapReduce**
 
 Este repositorio contiene ejercicios prácticos diseñados para comprender y aplicar el procesamiento de datos distribuidos utilizando **Hadoop** y la técnica de **MapReduce**. A través de ejemplos simples, se demuestra cómo analizar y extraer información útil de grandes conjuntos de datos almacenados en un sistema de archivos distribuido (HDFS).
 
